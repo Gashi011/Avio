@@ -1,3 +1,9 @@
 [submodule "Nodejs"]
 	path = Nodejs
 	url = https://github.com/Gashi011/NodeAvio.git
+[submodule "Avio-appReact"]
+	path = Avio-appReact
+	url = https://github.com/Gashi011/avio-app.git
+[submodule "Avio-app-React"]
+	path = Avio-app-React
+	url = https://github.com/Gashi011/avio-app.git
